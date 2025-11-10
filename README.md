@@ -46,7 +46,7 @@ Most of the samples are undetected by Windows Defender but will easily get block
 
 <img align="right" src="media/hijak2create-reshack.png" width="330" />
 
-On the left Find and hijack version, on the right Create and hijack version, both injected with vs_community.exe (visual studio setup).
+On the left Find&hijack version, on the right Create&hijack version, both injected with vs_community.exe (visual studio setup).
 
 <br> </br>
 
