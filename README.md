@@ -13,4 +13,36 @@ a
 
 # 🛡 AV Detection
 
+
+<img align="right" src="media/hijak2create.png" width="280" />
+
 a
+
+<img src="media/hijak2create-reshack.png" width="350" />
+
+a
+
+a
+
+a
+
+<img align="right" src="media/hijak2bet.png" width="280" />
+
+a
+
+<img src="media/hijak2bet-reshack.png" width="350" />
+
+a
+
+a
+
+a
+
+<img align="right" src="media/dll-hijak-find.png" width="280" />
+
+a
+
+<img src="media/dll-hijak-find-reshack.png" width="350" />
+
+a
+
