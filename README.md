@@ -42,13 +42,15 @@ The difference is simply that once the dll is attached to a process, it will sta
 
 Most of the samples are undetected by Windows Defender but will easily get blocked by BitDefender except for the Dll. Here are the samples i obfuscated with resource Hacker by injecting metadata of other apps.
 
-1) Find and hijack (injecting vs_community.exe)
-<img src="media/hijak2bet-reshack.png" width="330" />
+<img align="left" src="media/hijak2bet-reshack.png" width="330" />
 
-2) Create and hijack (injecting vs_community.exe)
-<img src="media/hijak2create-reshack.png" width="330" />
+<img align="right" src="media/hijak2create-reshack.png" width="330" />
 
-3) DLL with both (injecting ntdll.dll), but keep in mind that the injector must be undetected too
+On the left Find and hijack version, on the right Create and hijack version, both injected with vs_community.exe (visual studio setup).
+
+<br> </br>
+
+Here is the DLL with both (injecting ntdll.dll), but keep in mind that the injector must be undetected too
 <img src="media/dll-hijak-find-reshack.png" width="330" />
 
 
