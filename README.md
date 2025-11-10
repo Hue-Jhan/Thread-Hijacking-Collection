@@ -48,7 +48,7 @@ Most of the samples are undetected by Windows Defender but will easily get block
 
 On the left Find&hijack version, on the right Create&hijack version, both injected with vs_community.exe
 
-Here is the DLL with both (injecting ntdll.dll), but keep in mind that the injector must be undetected too
+Here is the DLL with both (injecting ntdll.dll), but keep in mind that the injector must be undetected too.
 <img src="media/dll-hijak-find-reshack.png" width="330" />
 
 
