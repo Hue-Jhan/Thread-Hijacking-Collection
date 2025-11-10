@@ -7,8 +7,9 @@ Collection of Thread Hijacking malware with different techniques. This code is f
 
 2 - Create and hijack a new thread inside a target process
 
+3 - Both options but in a DLL, stealthier 
 
-e
+a
 
 # 🛡 AV Detection
 
