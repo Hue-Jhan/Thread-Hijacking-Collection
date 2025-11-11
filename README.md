@@ -1,5 +1,7 @@
 # Thread Hijacking Collection
-Collection of Thread Hijacking malware with different techniques. This code is for educational purposes only, do not use it for any malicious or unauthorized activity.
+Collection of Thread Hijacking malware with different techniques, some of them undetected by Windows Defender, the DLL is undetected by Bitdefender.
+
+This code is for educational purposes only, do not use it for any malicious or unauthorized activity.
 
 # 💻 Code
 
